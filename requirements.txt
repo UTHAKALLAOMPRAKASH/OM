@@ -1,0 +1,6 @@
+# Validated candidate pins; lock file records transitive dependencies.
+PySide6-Essentials==6.10.2
+PySide6-Addons==6.10.2
+mediapipe==0.10.21
+opencv-contrib-python==4.11.0.86
+pyserial==3.5

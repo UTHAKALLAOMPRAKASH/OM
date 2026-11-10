@@ -1,0 +1,9 @@
+[project]
+name = "postureguard"
+version = "0.4.0"
+description = "Local ergonomic awareness and focus tools for Windows"
+requires-python = ">=3.11,<3.13"
+
+[tool.pytest.ini_options]
+pythonpath = ["src"]
+testpaths = ["tests"]
